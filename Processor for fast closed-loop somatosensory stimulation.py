@@ -8,8 +8,8 @@ Attribution:
 This file is based on work originally found in the DeepLabCut Toolbox (deeplabcut.org, https://github.com/DeepLabCut/DeepLabCut-live/blob/master/example_processors/MouseLickLED/lick_led.py) by A. & M. Mathis Labs. It was modified by Liam E. Browne (https://github.com/lebrowne) and Isobel Parkes (https://github.com/Isoparkes) as an example for Parkes et al 2024.
 
 Date:
-Created on: January 1, 2024
-Last updated: July 1, 2024
+Created on: July 1, 2024
+Last updated: July 2, 2024
 
 Original License:
 This work includes modifications to code licensed under the GNU Lesser General Public License v3.0.
