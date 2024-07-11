@@ -2,7 +2,8 @@
 Title: Processor for random-access multi-animal somatosensory stimulation
 
 Description:
-This script generates a random trial sequence for each animal, sends a signal to modulate laser intensity dependent on the trial sequence, and converts keypoints to mirror galvanometer voltages to target and trigger a laser
+This script generates a random trial sequence for each animal, sends a signal to modulate laser intensity dependent on the trial sequence, and converts keypoints to mirror galvanometer voltages to target and trigger a laser.
+This processor ultilises our modified DLC-Live! scripts: Multi-chamber real-time pose estimation.ipynb 
 
 Attribution:
 This file is based on work originally found in the DeepLabCut Toolbox (deeplabcut.org, https://github.com/DeepLabCut/DeepLabCut-live/blob/master/example_processors/MouseLickLED/lick_led.py) by A. & M. Mathis Labs. It was modified by Liam E. Browne (https://github.com/lebrowne) and Isobel Parkes (https://github.com/Isoparkes) as an example for Parkes et al 2024.
