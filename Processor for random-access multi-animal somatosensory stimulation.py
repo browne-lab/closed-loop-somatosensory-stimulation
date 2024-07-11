@@ -6,7 +6,7 @@ This script generates a random trial sequence for each animal, sends a signal to
 This processor ultilises our modified DLC-Live! scripts: Multi-chamber real-time pose estimation.ipynb 
 
 Attribution:
-This file is based on work originally found in the DeepLabCut Toolbox (deeplabcut.org, https://github.com/DeepLabCut/DeepLabCut-live/blob/master/example_processors/MouseLickLED/lick_led.py) by A. & M. Mathis Labs. It was modified by Isobel Parkes (https://github.com/Isoparkes) and Liam E. Browne (https://github.com/lebrowne) as an example for Parkes et al 2024.
+This file is based on work originally found in the DeepLabCut Toolbox (deeplabcut.org, https://github.com/DeepLabCut/DeepLabCut-live/blob/master/example_processors/MouseLickLED/lick_led.py) by A. & M. Mathis Labs. It was modified by Isobel Parkes (https://github.com/Isoparkes) as an example for Parkes et al 2024.
 
 Date:
 Created on: July 6, 2024
@@ -17,7 +17,7 @@ This work includes modifications to code licensed under the GNU Lesser General P
 For more information, see <https://www.gnu.org/licenses/lgpl-3.0.html>.
 
 Additional Contributions License:
-The modifications made by Isobel Parkes and Liam E. Browne are licensed under the MIT License. For more details, see <https://opensource.org/licenses/MIT>.
+The modifications made by Isobel Parkes are licensed under the MIT License. For more details, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
